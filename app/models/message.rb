@@ -1,2 +1,2 @@
-class Message < ApplicationRecord::Base
+class Message < ApplicationRecord
 end
